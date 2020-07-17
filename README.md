@@ -2,7 +2,7 @@
 
 
 
-* Get & Add your API Key in ./lib/secret.dart
+* Get ( newsapi.org ) & Add your API Key in ./lib/secret.dart
 
 * Run `flutter pub get` to get packages
 * Run `flutter build apk` to build APK 
